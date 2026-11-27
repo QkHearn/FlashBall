@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "闪控球时钟 Demo"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "按秒刷新的闪控球时钟"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "闪控球时钟"
+    },
+    {
+      "name": "perm_float_ball",
+      "value": "用于在桌面或其他应用之上以闪控球展示实时时钟"
+    }
+  ]
+}
